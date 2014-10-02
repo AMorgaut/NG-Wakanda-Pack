@@ -1,28 +1,28 @@
-#Your Angular-Wakanda Dev Pack#
+#Angular-Wakanda Dev Pack#
 
-See it running live at [http://ng-wakanda-pack.us.wak-apps.com/](http://ng-wakanda-pack.us.wak-apps.com/)
+Go to [http://ng-wakanda-pack.us.wak-apps.com/](http://ng-wakanda-pack.us.wak-apps.com/) to see **Angular-Wakanda** running live.
 
 ##Warning##
 
-**Angular-Wakanda** is not yet available in stable version. The versions which are in this pack are early versions which do not implement all the final API shown in the examples (the previews occasionnaly use a temporary API)
+A stable version of **Angular-Wakanda** is not yet available. The versions in this pack do not implement the final API as shown in the examples (the previews occasionally use a temporary API).
 
 ##About##
 
 ###Angular-Wakanda###
 
-**angular-wakanda** is aimed to let you build [AngularJS](http://angularjs.com) expressive interfaces linked to your REST provided [Wakanda](http://wakanda.org) Application Model.
+**angular-wakanda** allows you to build [AngularJS](http://angularjs.com) expressive interfaces linked to your REST-based [Wakanda](http://wakanda.org) Application Model.
 
 ###NG-Wakanda-Pack###
 
-This pack contains a set of angular pages and a Wakanda Model to interact with and to learn get started with **angular-wakanda**
+This pack contains a set of angular pages and a Wakanda model so that you can begin learning how to use **angular-wakanda**
 
-All this pack and its running examples are available from this Github repository:
+This pack along with its examples are available in this GitHub repository:
 [http://github.com/AMorgaut/NG-Wakanda-Pack](http://github.com/AMorgaut/NG-Wakanda-Pack)
 
 ###API Documentation###
 
-An [Angular-Wakanda API Documentation](API-DOC.md) is included in this Dev Pack so, once downloaded, you can easily check it offline.
+A beta version of the [Angular-Wakanda API Documentation](API-DOC.md) is included in this Dev Pack. You can download it to read it offline.
 
 ###Release Notes###
 
-You can check the [release notes](RELEASE-NOTES.md) to see the Dev Pack and the Angular-Wakanda version changes
+The [release notes](RELEASE-NOTES.md) explain the version changes in Dev Pack and the Angular-Wakanda.
