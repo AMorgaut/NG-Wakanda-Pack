@@ -17,9 +17,9 @@
     <a href="http://angularjs.org/" target="_blank"><img alt="AngularJS" src="images/angular-shield.png" style="vertical-align: middle;float:left; margin:0 1em 1em 0; width: 197px; height: 207px;border:none" /></a>
     <a href="http://wakanda.org/" target="_blank"><img alt="Wakanda Server" src="images/wakandadb.png" style="vertical-align: middle;float:right; margin:0 1em 1em 0; width: 180px; height: 180px;border:none" /></a>
     <p>&nbsp;</p>
-    <p style="font-weight:bold;">Build <a href="http://angularjs.org/" target="_blank">AngularJS</a> expressive interfaces linked to your REST provided <a href="http://angularjs.org/" target="_blank">Wakanda</a> Application Model.</p>
-    <p>This solution pack contain several demo pages to learn how to use <strong><a href="http://wakanda.org/angular">angular-wakanda</a></strong></p>
-    <p>All this pack and its running examples are available from this Github repository: <a href="https://github.com/AMorgaut/NG-Wakanda-Pack" target="_blank">NG-Wakanda-Pack</a></p>
+    <p style="font-weight:bold;">Build <a href="http://angularjs.org/" target="_blank">AngularJS</a> expressive interfaces linked to your <a href="http://www.wakanda.org/" target="_blank">Wakanda</a> Application Model.</p>
+    <p>This solution pack contains several demo pages that allow you to learn how to use <strong><a href="http://wakanda.org/angular">angular-wakanda</a></strong>.</p>
+    <p>This pack as well as the live examples are available from this GitHub repository: <a href="https://github.com/AMorgaut/NG-Wakanda-Pack" target="_blank">NG-Wakanda-Pack</a></p>
   </div>
 
   <hr style="clear: left;">
@@ -32,14 +32,14 @@
         <h2>1 - Integrate angular-wakanda in your project</h2>
         <p>
 				  <a href="http://bower.io/" target="_blank"><img alt="bower" src="images/bower%20logo.gif" style="float:left; margin:0 1em 1em 0; width: 80px; height: 80px;border:none" /></a>
-          Thanks to <a href="http://bower.io/" target="_blank">Bower</a>, Wakanda is very easy to install in by command line,
-          directly or via your own <a href="http://bower.io/" target="_blank"><code>bowser.json</code></a> file
+          Thanks to <a href="http://bower.io/" target="_blank">Bower</a>, you can easily install Wakanda using a command line
+          directly or via your own <a href="http://bower.io/" target="_blank"><code>bowser.json</code></a> file.
           <script src="http://gist-it.appspot.com/github/AMorgaut/NG-Wakanda-Pack/blob/master/NG-Wakanda-Pack/WebFolder/tutorial/install.sh?footer=minimal"></script>
         </p>
         <p>
-          If you want to install it manually, <strong>angular-wakanda</strong> only requires to include
+          If you want to install it manually, <strong>angular-wakanda</strong> only requires that you include
           <a href="https://github.com/Wakanda/bower-angular-wakanda/raw/master/angular-wakanda.min.js" target="_blank">angular-wankanda-min.js</a> 
-          and only has <a href="https://github.com/angular/bower-angular/raw/master/angular.min.js" target="_blank">angular.min.js</a> for dependency.
+          and <a href="https://github.com/angular/bower-angular/raw/master/angular.min.js" target="_blank">angular.min.js</a> for reasons of dependency.
         </p>
         <script src="http://gist-it.appspot.com/github/AMorgaut/NG-Wakanda-Pack/blob/master/NG-Wakanda-Pack/WebFolder/tutorial/step1.html?slice=7:8&footer=minimal"></script>
       </td>
@@ -68,9 +68,9 @@
     <table><tbody><tr>
       <td>
         <h2>2 - Initialize the Wakanda Service</h2>
-        <p>The Wakanda Service <strong><code>init()</code></strong> method lets you choose to load all the available Model (default) or only specified DataClasses</p>
-				<p>It works as a JavaScript Promise. Let's load everything.</p>
-				<p>This Wakanda project provides 3 DataClasses (Country, Company, and Employee), all designed in pure JS in Wakanda.</p>
+        <p>The Wakanda Service <strong><code>init()</code></strong> method lets you choose to load all the available dataclasses in the Model (by default) or only the dataclasses you specify.</p>
+				<p>The service works as a JavaScript promise. Let's load everything.</p>
+				<p>This Wakanda project contains three dataclasses (Country, Company, and Employee), all designed in Wakanda using JS.</p>
         <p>The Wakanda Model can be designed very easily either <a href="http://doc.wakanda.org/Wakanda-Studio-Reference-Guide/Datastore-Model-Designer.200-305081.en.html" target="_blank">graphically</a> or <a href="http://doc.wakanda.org/Model/Model.100-975773.en.html" target="_blank">programmatically</a> in pure JavaScript.
       </td>
       <td>
@@ -97,9 +97,9 @@
   <section>
     <table><tbody><tr>
       <td>
-        <h2>3 - Get your Data in One line</h2>
-        <p><a href="http://wakanda.org/angular" target="_blank">angular-wakanda</a> lets you have all your Wakanda Model usable directly from Angular based Web Application interfaces.</p>
-        <p>Once initialized, integrating your defined Business JS Objects into your angular scopes is as simple as this <strong>$find()</strong> method.</p>
+        <h2>3 - Retrieve your data with one line of code</h2>
+        <p><a href="http://wakanda.org/angular" target="_blank">angular-wakanda</a> lets you use your entire Wakanda Model directly from Angular-based Web Application interfaces.</p>
+        <p>Once the service is initialized, integrating your defined Business JS Objects into your angular scopes is as simple as calling the <strong>$find()</strong> method.</p>
         <script src="http://gist-it.appspot.com/github/AMorgaut/NG-Wakanda-Pack/blob/master/NG-Wakanda-Pack/WebFolder/tutorial/scripts/step3.js?slice=10:10&footer=minimal"></script>
       </td>
       <td>
@@ -108,7 +108,7 @@
   					<li><a href="#step3-preview">Preview</a></li>
   					<li><a href="#step3-JS">JS</a></li>
 		  		  <li><a href="#step3-HTML">HTML</a></li>
-		  		  <li><a href="#step3-Country">Country DataClass</a></li>
+		  		  <li><a href="#step3-Country">Country Dataclass</a></li>
 				  </ul>
   				<div id="step3-preview">
             <iframe src="tutorial/step3.html"></iframe>
@@ -130,10 +130,10 @@
   <section>
     <table><tbody><tr>
       <td>
-        <h2>4 - Get fast infinite scroll for free</h2>
-        <p>No need of manual paging or manual cache optimization...</p>
-        <p>angular-wakanda take advatange of the wakanda protocol native entityset cache to fetch big collection pages.</p>
-        <p>You can either use the <strong><code>$more()</code></strong> method for <a href="http://jsfiddle.net/vojtajina/U7Bz9/" target="_blank">infinite scroll</a> or the classic <strong><code>$prevPage()</code></strong> / <strong><code>$gotoPage()</code></strong> / <strong><code>$nextPage()</code></strong> methods on dedicated buttons</p>
+        <h2>4 - Get fast infinite scrolling for free</h2>
+        <p>No need for manual paging or manual cache optimization...</p>
+        <p>angular-wakanda takes advatange of the Wakanda protocol native entityset cache to fetch a large collection in pages.</p>
+        <p>You can either use the <strong><code>$more()</code></strong> method for <a href="http://jsfiddle.net/vojtajina/U7Bz9/" target="_blank">infinite scrolling</a> or the classic <strong><code>$prevPage()</code></strong> / <strong><code>$nextPage()</code></strong> methods.</p>
         <script src="http://gist-it.appspot.com/github/AMorgaut/NG-Wakanda-Pack/blob/master/NG-Wakanda-Pack/WebFolder/tutorial/step4.html?slice=27:31&footer=minimal"></script>
       </td>
       <td>
@@ -167,9 +167,9 @@
         <h2>5 - Get related data out of the box</h2>
         <p>No joins, no foreign keys, no map-reduce...</p>
         <p>Get access to related data directly through your entity object properties</p>
-        <p>All you have to do is to tell angular-wakanda when you want to load it locally with this related property <strong><code>$fetch()</code></strong> method</p>
+        <p>All you have to do is to tell angular-wakanda when you want to load the  related attribute locally by calling the <strong><code>$fetch()</code></strong> method</p>
         <script src="http://gist-it.appspot.com/github/AMorgaut/NG-Wakanda-Pack/blob/master/NG-Wakanda-Pack/WebFolder/tutorial/scripts/step5-final.js?slice=15:16&footer=minimal"></script>
-        <p>Thanks to the Wakanda <a href="http://doc.wakanda.org/Attributes.300-574626.en.html" target="_blank"><strong>alias attributes</strong></a>, this example shows the company manager fullname without even fetching the related Manager</p>
+        <p>Thanks to Wakanda's <a href="http://doc.wakanda.org/Attributes.300-574626.en.html" target="_blank"><strong>alias attributes</strong></a>, this example shows the manager's fullname without even fetching the related manager.</p>
       </td>
       <td>
         <div class="tabs">
@@ -177,7 +177,7 @@
   					<li><a href="#step5-preview">Preview</a></li>
   					<li><a href="#step5-JS">JS</a></li>
 		  		  <li><a href="#step5-HTML">HTML</a></li>
-		  		  <li><a href="#step5-Company">Company DataClass</a></li>
+		  		  <li><a href="#step5-Company">Company Dataclass</a></li>
 				  </ul>
   				<div id="step5-preview">
             <iframe src="tutorial/step5.html"></iframe>
@@ -200,8 +200,8 @@
     <table><tbody><tr>
       <td>
         <h2>6 - Modify your data</h2>
-        <p>Each Wakanda DataClass provides a <strong><code>$create()</code></strong> method</p>
-        <p>Each received Wakanda entities comes with its <strong><code>$save()</code></strong> and <strong><code>$remove()</code></strong> methods</p>
+        <p>Each Wakanda dataclass provides a <strong><code>$create()</code></strong> method.</p>
+        <p>Each Wakanda entity comes with its <strong><code>$save()</code></strong> and <strong><code>$remove()</code></strong> methods.</p>
         <script src="http://gist-it.appspot.com/github/AMorgaut/NG-Wakanda-Pack/blob/master/NG-Wakanda-Pack/WebFolder/tutorial/step6.html?slice=27:28&footer=minimal"></script>
       </td>
       <td>
@@ -241,13 +241,13 @@
   <section>
     <table><tbody><tr>
       <td>
-        <h2>7 - Enjoy some Demos</h2>
-        <p>Enjoy the more advanced demos and get help from <a href="https://github.com/AMorgaut/NG-Wakanda-Pack/blob/master/API-DOC.md">the documentation</a> when necessary</p>
+        <h2>7 - Try out a few demos</h2>
+        <p>Enjoy a few more advanced demos and get help from <a href="https://github.com/AMorgaut/NG-Wakanda-Pack/blob/master/API-DOC.md">the documentation</a> when necessary.</p>
       </td>
       <td>
         <div class="tabs">
           <ul>
-		  		  <li><a href="#step6-todo">Todo Demo</a></li>
+		  		  <li><a href="#step6-todo">To Do Demo</a></li>
   					<li><a href="#step6-bootstrapPage">Bootstrap Demo</a></li>
 				  </ul>
   				<div id="step6-todo">
@@ -298,3 +298,4 @@
   </script>
 </body>
 </html>
+
