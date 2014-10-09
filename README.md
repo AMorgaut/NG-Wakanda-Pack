@@ -1,6 +1,6 @@
 #Angular-Wakanda Dev Pack#
 
-Go to [http://seb-l.github.io/NG-Wakanda-Pack/(http://seb-l.github.io/NG-Wakanda-Pack/) to see **Angular-Wakanda** running live.
+Go to [http://seb-l.github.io/NG-Wakanda-Pack/](http://seb-l.github.io/NG-Wakanda-Pack/) to see **Angular-Wakanda** running live.
 
 ##Warning##
 
