@@ -1,0 +1,36 @@
+$susy: (
+	columns: 12,
+	gutters: 1/4,
+	math: fluid,
+	output: float,
+	gutter-position: outside
+);
+
+// susy extends
+%container{
+	@include container;
+}
+
+// breakpoint
+$mobile-small: 0em 26em;
+$mobile-large: 26em 40em;
+$tablet-small: 40em 50em;
+$tablet-large: 50em 60em;
+$desktop-small: 60em 70em;
+$desktop-large: 70em;
+
+$not-desktop: (max-width 1100px);
+
+// GRID -------------------------------------------------------------------------------------------------------------
+
+
+// index.php
+.github-sources{
+	@extend %container;
+
+	li{
+		@include breakpoint($desktop-large) {
+			@include gallery(4 of 8);
+		}
+	}
+}

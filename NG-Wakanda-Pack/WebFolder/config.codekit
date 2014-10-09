@@ -1,0 +1,4613 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "17945",
+"files": {
+	"\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-bg_inset-soft_30_ffffff_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 242,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-bg_inset-soft_30_ffffff_1x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-bg_inset-soft_30_ffffff_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_3d3d3d_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7055,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_3d3d3d_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_3d3d3d_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_bd7b00_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_bd7b00_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_bd7b00_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_d19405_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_d19405_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_d19405_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_eb990f_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_eb990f_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_eb990f_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_ed9f26_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_ed9f26_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_ed9f26_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_fadc7a_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_fadc7a_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_fadc7a_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_ffe180_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_ffe180_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/sunny\/images\/ui-icons_ffe180_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/sunny\/jquery-ui.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/sunny\/jquery-ui.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/sunny\/jquery-ui.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/sunny\/jquery-ui.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/sunny\/theme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/sunny\/theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_diamond_10_4f4221_10x8.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 346,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_diamond_10_4f4221_10x8.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_diamond_10_4f4221_10x8.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_diamond_20_372806_10x8.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 349,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_diamond_20_372806_10x8.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_diamond_20_372806_10x8.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_diamond_25_675423_10x8.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 351,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_diamond_25_675423_10x8.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_diamond_25_675423_10x8.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_diamond_25_d5ac5d_10x8.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 352,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_diamond_25_d5ac5d_10x8.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_diamond_25_d5ac5d_10x8.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_diamond_8_261803_10x8.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 349,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_diamond_8_261803_10x8.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_diamond_8_261803_10x8.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_diamond_8_443113_10x8.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 349,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_diamond_8_443113_10x8.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_diamond_8_443113_10x8.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_flat_75_ddd4b0_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 261,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_flat_75_ddd4b0_40x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_flat_75_ddd4b0_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_highlight-hard_65_fee4bd_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 353,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_highlight-hard_65_fee4bd_1x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-bg_highlight-hard_65_fee4bd_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_070603_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_070603_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_070603_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_e8e2b5_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_e8e2b5_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_e8e2b5_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_e9cd86_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_e9cd86_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_e9cd86_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_efec9f_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_efec9f_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_efec9f_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_f2ec64_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_f2ec64_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_f2ec64_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_f9f2bd_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_f9f2bd_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_f9f2bd_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_ff7519_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_ff7519_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/images\/ui-icons_ff7519_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/swanky-purse\/jquery-ui.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/jquery-ui.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/swanky-purse\/jquery-ui.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/jquery-ui.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/swanky-purse\/theme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/swanky-purse\/theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_diagonals-small_50_262626_40x40.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 289,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_diagonals-small_50_262626_40x40.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_diagonals-small_50_262626_40x40.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_flat_0_303030_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 269,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_flat_0_303030_40x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_flat_0_303030_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_flat_0_4c4c4c_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 269,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_flat_0_4c4c4c_40x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_flat_0_4c4c4c_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_glass_40_0a0a0a_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 299,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_glass_40_0a0a0a_1x400.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_glass_40_0a0a0a_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_glass_55_f1fbe5_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 387,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_glass_55_f1fbe5_1x400.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_glass_55_f1fbe5_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_glass_60_000000_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 297,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_glass_60_000000_1x400.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_glass_60_000000_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_gloss-wave_55_000000_500x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3906,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_gloss-wave_55_000000_500x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_gloss-wave_55_000000_500x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_gloss-wave_85_9fda58_500x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5979,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_gloss-wave_85_9fda58_500x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_gloss-wave_85_9fda58_500x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_gloss-wave_95_f6ecd5_500x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5837,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_gloss-wave_95_f6ecd5_500x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-bg_gloss-wave_95_f6ecd5_500x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-icons_000000_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5563,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-icons_000000_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-icons_000000_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-icons_1f1f1f_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7006,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-icons_1f1f1f_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-icons_1f1f1f_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-icons_9fda58_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-icons_9fda58_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-icons_9fda58_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-icons_b8ec79_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-icons_b8ec79_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-icons_b8ec79_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-icons_cd0a0a_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-icons_cd0a0a_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-icons_cd0a0a_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-icons_ffffff_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6468,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-icons_ffffff_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/images\/ui-icons_ffffff_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/trontastic\/jquery-ui.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/jquery-ui.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/trontastic\/jquery-ui.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/jquery-ui.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/trontastic\/theme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/trontastic\/theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_flat_30_cccccc_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 259,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_flat_30_cccccc_40x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_flat_30_cccccc_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_flat_50_5c5c5c_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 269,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_flat_50_5c5c5c_40x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_flat_50_5c5c5c_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_glass_20_555555_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 299,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_glass_20_555555_1x400.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_glass_20_555555_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_glass_40_0078a3_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 381,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_glass_40_0078a3_1x400.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_glass_40_0078a3_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_glass_40_ffc73d_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 355,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_glass_40_ffc73d_1x400.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_glass_40_ffc73d_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_gloss-wave_25_333333_500x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3855,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_gloss-wave_25_333333_500x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_gloss-wave_25_333333_500x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_highlight-soft_80_eeeeee_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 315,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_highlight-soft_80_eeeeee_1x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_highlight-soft_80_eeeeee_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_inset-soft_25_000000_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 314,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_inset-soft_25_000000_1x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_inset-soft_25_000000_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_inset-soft_30_f58400_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 379,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_inset-soft_30_f58400_1x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-bg_inset-soft_30_f58400_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-icons_222222_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7006,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-icons_222222_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-icons_222222_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-icons_4b8e0b_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-icons_4b8e0b_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-icons_4b8e0b_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-icons_a83300_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-icons_a83300_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-icons_a83300_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-icons_cccccc_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7015,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-icons_cccccc_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-icons_cccccc_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-icons_ffffff_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6468,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-icons_ffffff_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/images\/ui-icons_ffffff_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-darkness\/jquery-ui.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/jquery-ui.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-darkness\/jquery-ui.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/jquery-ui.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-darkness\/theme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-darkness\/theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_diagonals-thick_18_b81900_40x40.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 457,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_diagonals-thick_18_b81900_40x40.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_diagonals-thick_18_b81900_40x40.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_diagonals-thick_20_666666_40x40.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 351,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_diagonals-thick_20_666666_40x40.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_diagonals-thick_20_666666_40x40.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_flat_10_000000_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 244,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_flat_10_000000_40x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_flat_10_000000_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_glass_100_f6f6f6_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 301,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_glass_100_f6f6f6_1x400.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_glass_100_f6f6f6_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_glass_100_fdf5ce_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 387,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_glass_100_fdf5ce_1x400.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_glass_100_fdf5ce_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_glass_65_ffffff_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 246,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_glass_65_ffffff_1x400.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_glass_65_ffffff_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_gloss-wave_35_f6a828_500x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5854,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_gloss-wave_35_f6a828_500x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_gloss-wave_35_f6a828_500x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_highlight-soft_100_eeeeee_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 317,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_highlight-soft_100_eeeeee_1x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_highlight-soft_100_eeeeee_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_highlight-soft_75_ffe45c_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 367,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_highlight-soft_75_ffe45c_1x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-bg_highlight-soft_75_ffe45c_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-icons_222222_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7006,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-icons_222222_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-icons_222222_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-icons_228ef1_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-icons_228ef1_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-icons_228ef1_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-icons_ef8c08_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-icons_ef8c08_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-icons_ef8c08_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-icons_ffd27a_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-icons_ffd27a_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-icons_ffd27a_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-icons_ffffff_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6468,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-icons_ffffff_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/images\/ui-icons_ffffff_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-lightness\/jquery-ui.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/jquery-ui.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-lightness\/jquery-ui.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/jquery-ui.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/ui-lightness\/theme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/ui-lightness\/theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_flat_0_aaaaaa_40x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 251,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_flat_0_aaaaaa_40x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_glass_95_fef1ec_1x400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 371,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_glass_95_fef1ec_1x400.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_glass_95_fef1ec_1x400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_gloss-wave_16_121212_500x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3887,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_gloss-wave_16_121212_500x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_gloss-wave_16_121212_500x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_highlight-hard_15_888888_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 290,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_highlight-hard_15_888888_1x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_highlight-hard_15_888888_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_highlight-hard_55_555555_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 289,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_highlight-hard_55_555555_1x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_highlight-hard_55_555555_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_highlight-soft_35_adadad_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 319,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_highlight-soft_35_adadad_1x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_highlight-soft_35_adadad_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_highlight-soft_60_dddddd_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 318,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_highlight-soft_60_dddddd_1x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_highlight-soft_60_dddddd_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_inset-soft_15_121212_1x100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 316,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_inset-soft_15_121212_1x100.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-bg_inset-soft_15_121212_1x100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_666666_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7092,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_666666_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_666666_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_aaaaaa_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7056,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_aaaaaa_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_aaaaaa_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_bbbbbb_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7073,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_bbbbbb_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_bbbbbb_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_c98000_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_c98000_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_c98000_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_cccccc_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7015,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_cccccc_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_cccccc_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_cd0a0a_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_cd0a0a_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_cd0a0a_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_f29a00_256x240.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4599,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_f29a00_256x240.png",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/images\/ui-icons_f29a00_256x240.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/vader\/jquery-ui.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/jquery-ui.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/vader\/jquery-ui.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/jquery-ui.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-ui\/themes\/vader\/theme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/themes\/vader\/theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/bower_components\/jquery-ui\/ui\/accordion.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/accordion.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/accordion-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/autocomplete.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/autocomplete.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/autocomplete-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/button.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/button.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/button-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/core.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/core.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/core-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/datepicker.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/datepicker.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/datepicker-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/dialog.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/dialog.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/dialog-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/draggable.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/draggable.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/draggable-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/droppable.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/droppable.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/droppable-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/effect-blind.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/effect-blind.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/effect-blind-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/effect-bounce.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/effect-bounce.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/effect-bounce-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/effect-clip.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/effect-clip.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/effect-clip-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/effect-drop.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/effect-drop.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/effect-drop-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/effect-explode.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/effect-explode.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/effect-explode-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/effect-fade.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/effect-fade.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/effect-fade-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/effect-fold.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/effect-fold.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/effect-fold-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/effect-highlight.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/effect-highlight.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/effect-highlight-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/effect-puff.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/effect-puff.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/effect-puff-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/effect-pulsate.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/effect-pulsate.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/effect-pulsate-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/effect-scale.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/effect-scale.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/effect-scale-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/effect-shake.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/effect-shake.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/effect-shake-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/effect-size.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/effect-size.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/effect-size-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/effect-slide.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/effect-slide.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/effect-slide-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/effect-transfer.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/effect-transfer.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/effect-transfer-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/effect.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/effect.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/effect-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-af.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-af.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-af-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ar-DZ.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ar-DZ.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-ar-DZ-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ar.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ar.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-ar-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-az.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-az.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-az-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-be.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-be.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-be-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-bg.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-bg.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-bg-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-bs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-bs.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-bs-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ca.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ca.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-ca-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-cs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-cs.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-cs-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-cy-GB.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-cy-GB.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-cy-GB-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-da.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-da.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-da-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-de.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-de.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-de-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-el.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-el.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-el-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-en-AU.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-en-AU.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-en-AU-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-en-GB.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-en-GB.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-en-GB-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-en-NZ.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-en-NZ.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-en-NZ-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-eo.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-eo.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-eo-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-es.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-es.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-es-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-et.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-et.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-et-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-eu.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-eu.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-eu-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-fa.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-fa.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-fa-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-fi.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-fi.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-fi-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-fo.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-fo.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-fo-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-fr-CA.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-fr-CA.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-fr-CA-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-fr-CH.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-fr-CH.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-fr-CH-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-fr.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-fr.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-fr-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-gl.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-gl.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-gl-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-he.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-he.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-he-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-hi.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-hi.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-hi-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-hr.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-hr.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-hr-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-hu.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-hu.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-hu-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-hy.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-hy.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-hy-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-id.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-id.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-id-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-is.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-is.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-is-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-it-CH.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-it-CH.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-it-CH-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-it.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-it.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-it-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ja.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ja.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-ja-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ka.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ka.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-ka-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-kk.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-kk.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-kk-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-km.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-km.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-km-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ko.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ko.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-ko-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ky.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ky.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-ky-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-lb.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-lb.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-lb-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-lt.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-lt.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-lt-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-lv.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-lv.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-lv-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-mk.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-mk.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-mk-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ml.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ml.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-ml-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ms.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ms.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-ms-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-nb.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-nb.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-nb-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-nl-BE.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-nl-BE.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-nl-BE-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-nl.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-nl.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-nl-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-nn.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-nn.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-nn-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-no.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-no.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-no-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-pl.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-pl.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-pl-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-pt-BR.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-pt-BR.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-pt-BR-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-pt.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-pt.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-pt-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-rm.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-rm.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-rm-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ro.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ro.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-ro-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ru.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ru.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-ru-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-sk.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-sk.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-sk-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-sl.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-sl.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-sl-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-sq.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-sq.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-sq-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-sr-SR.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-sr-SR.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-sr-SR-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-sr.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-sr.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-sr-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-sv.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-sv.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-sv-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ta.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-ta.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-ta-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-th.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-th.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-th-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-tj.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-tj.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-tj-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-tr.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-tr.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-tr-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-uk.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-uk.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-uk-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-vi.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-vi.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-vi-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-zh-CN.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-zh-CN.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-zh-CN-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-zh-HK.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-zh-HK.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-zh-HK-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-zh-TW.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/datepicker-zh-TW.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/i18n\/min\/datepicker-zh-TW-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/menu.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/menu.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/menu-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/accordion.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/accordion.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/accordion.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/autocomplete.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/autocomplete.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/autocomplete.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/button.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/button.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/button.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/core.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/core.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/core.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/datepicker.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/datepicker.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/datepicker.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/dialog.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/dialog.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/dialog.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/draggable.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/draggable.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/draggable.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/droppable.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/droppable.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/droppable.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/effect-blind.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/effect-blind.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/effect-blind.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/effect-bounce.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/effect-bounce.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/effect-bounce.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/effect-clip.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/effect-clip.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/effect-clip.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/effect-drop.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/effect-drop.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/effect-drop.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/effect-explode.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/effect-explode.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/effect-explode.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/effect-fade.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/effect-fade.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/effect-fade.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/effect-fold.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/effect-fold.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/effect-fold.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/effect-highlight.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/effect-highlight.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/effect-highlight.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/effect-puff.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/effect-puff.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/effect-puff.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/effect-pulsate.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/effect-pulsate.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/effect-pulsate.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/effect-scale.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/effect-scale.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/effect-scale.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/effect-shake.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/effect-shake.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/effect-shake.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/effect-size.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/effect-size.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/effect-size.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/effect-slide.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/effect-slide.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/effect-slide.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/effect-transfer.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/effect-transfer.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/effect-transfer.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/effect.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/effect.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/effect.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-af.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-af.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-af.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ar-DZ.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ar-DZ.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-ar-DZ.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ar.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ar.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-ar.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-az.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-az.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-az.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-be.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-be.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-be.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-bg.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-bg.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-bg.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-bs.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-bs.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-bs.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ca.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ca.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-ca.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-cs.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-cs.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-cs.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-cy-GB.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-cy-GB.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-cy-GB.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-da.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-da.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-da.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-de.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-de.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-de.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-el.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-el.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-el.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-en-AU.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-en-AU.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-en-AU.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-en-GB.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-en-GB.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-en-GB.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-en-NZ.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-en-NZ.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-en-NZ.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-eo.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-eo.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-eo.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-es.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-es.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-es.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-et.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-et.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-et.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-eu.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-eu.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-eu.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-fa.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-fa.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-fa.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-fi.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-fi.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-fi.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-fo.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-fo.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-fo.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-fr-CA.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-fr-CA.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-fr-CA.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-fr-CH.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-fr-CH.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-fr-CH.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-fr.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-fr.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-fr.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-gl.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-gl.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-gl.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-he.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-he.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-he.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-hi.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-hi.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-hi.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-hr.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-hr.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-hr.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-hu.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-hu.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-hu.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-hy.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-hy.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-hy.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-id.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-id.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-id.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-is.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-is.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-is.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-it-CH.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-it-CH.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-it-CH.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-it.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-it.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-it.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ja.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ja.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-ja.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ka.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ka.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-ka.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-kk.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-kk.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-kk.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-km.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-km.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-km.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ko.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ko.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-ko.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ky.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ky.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-ky.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-lb.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-lb.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-lb.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-lt.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-lt.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-lt.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-lv.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-lv.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-lv.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-mk.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-mk.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-mk.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ml.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ml.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-ml.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ms.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ms.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-ms.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-nb.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-nb.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-nb.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-nl-BE.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-nl-BE.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-nl-BE.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-nl.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-nl.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-nl.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-nn.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-nn.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-nn.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-no.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-no.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-no.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-pl.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-pl.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-pl.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-pt-BR.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-pt-BR.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-pt-BR.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-pt.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-pt.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-pt.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-rm.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-rm.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-rm.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ro.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ro.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-ro.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ru.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ru.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-ru.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-sk.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-sk.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-sk.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-sl.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-sl.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-sl.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-sq.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-sq.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-sq.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-sr-SR.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-sr-SR.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-sr-SR.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-sr.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-sr.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-sr.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-sv.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-sv.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-sv.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ta.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-ta.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-ta.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-th.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-th.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-th.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-tj.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-tj.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-tj.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-tr.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-tr.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-tr.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-uk.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-uk.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-uk.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-vi.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-vi.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-vi.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-zh-CN.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-zh-CN.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-zh-CN.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-zh-HK.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-zh-HK.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-zh-HK.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-zh-TW.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/datepicker-zh-TW.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/i18n\/min\/datepicker-zh-TW.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/menu.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/menu.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/menu.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/mouse.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/mouse.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/mouse.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/position.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/position.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/position.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/progressbar.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/progressbar.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/progressbar.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/resizable.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/resizable.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/resizable.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/selectable.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/selectable.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/selectable.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/selectmenu.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/selectmenu.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/selectmenu.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/slider.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/slider.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/slider.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/sortable.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/sortable.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/sortable.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/spinner.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/spinner.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/spinner.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/tabs.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/tabs.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/tabs.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/tooltip.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/tooltip.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/tooltip.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/minified\/widget.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/widget.min.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/minified\/min\/widget.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/mouse.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/mouse.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/mouse-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/position.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/position.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/position-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/progressbar.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/progressbar.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/progressbar-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/resizable.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/resizable.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/resizable-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/selectable.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/selectable.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/selectable-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/selectmenu.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/selectmenu.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/selectmenu-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/slider.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/slider.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/slider-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/sortable.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/sortable.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/sortable-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/spinner.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/spinner.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/spinner-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/tabs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/tabs.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/tabs-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/tooltip.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/tooltip.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/tooltip-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery-ui\/ui\/widget.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/widget.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery-ui\/ui\/min\/widget-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/var\/rnotwhite.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/rnotwhite.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/rnotwhite-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/var\/slice.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/slice.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/slice-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/var\/strundefined.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/strundefined.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/strundefined-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/var\/support.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/support.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/support-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/var\/toString.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/toString.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/var\/min\/toString-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/bower_components\/jquery\/src\/wrap.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/bower_components\/jquery\/src\/wrap.js",
+		"outputAbbreviatedPath": "\/bower_components\/jquery\/src\/min\/wrap-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/demos\/bootstrap\/app.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/demos\/bootstrap\/app.js",
+		"outputAbbreviatedPath": "\/demos\/bootstrap\/min\/app-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/demos\/bootstrap\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/demos\/bootstrap\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/demos\/bootstrap\/styles.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/demos\/bootstrap\/styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/demos\/programmez\/app.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/demos\/programmez\/app.js",
+		"outputAbbreviatedPath": "\/demos\/programmez\/min\/app-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/demos\/programmez\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/demos\/programmez\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/demos\/programmez\/styles.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/demos\/programmez\/styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/demos\/todo\/app.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/demos\/todo\/app.js",
+		"outputAbbreviatedPath": "\/demos\/todo\/min\/app-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/demos\/todo\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/demos\/todo\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/images\/angular-shield.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10119,
+		"inputAbbreviatedPath": "\/images\/angular-shield.png",
+		"outputAbbreviatedPath": "\/images\/angular-shield.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/screenshot-bootstrap.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30074,
+		"inputAbbreviatedPath": "\/images\/screenshot-bootstrap.png",
+		"outputAbbreviatedPath": "\/images\/screenshot-bootstrap.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/screenshot-todo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18061,
+		"inputAbbreviatedPath": "\/images\/screenshot-todo.png",
+		"outputAbbreviatedPath": "\/images\/screenshot-todo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/wakandadb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7538,
+		"inputAbbreviatedPath": "\/images\/wakandadb.png",
+		"outputAbbreviatedPath": "\/images\/wakandadb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/index.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/tutorial\/scripts\/step1.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/tutorial\/scripts\/step1.js",
+		"outputAbbreviatedPath": "\/tutorial\/scripts\/min\/step1-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/tutorial\/scripts\/step2.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/tutorial\/scripts\/step2.js",
+		"outputAbbreviatedPath": "\/tutorial\/scripts\/min\/step2-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/tutorial\/scripts\/step3.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/tutorial\/scripts\/step3.js",
+		"outputAbbreviatedPath": "\/tutorial\/scripts\/min\/step3-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/tutorial\/scripts\/step4.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/tutorial\/scripts\/step4.js",
+		"outputAbbreviatedPath": "\/tutorial\/scripts\/min\/step4-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/tutorial\/scripts\/step5-final.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/tutorial\/scripts\/step5-final.js",
+		"outputAbbreviatedPath": "\/tutorial\/scripts\/min\/step5-final-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/tutorial\/scripts\/step5.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/tutorial\/scripts\/step5.js",
+		"outputAbbreviatedPath": "\/tutorial\/scripts\/min\/step5-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/tutorial\/scripts\/step6.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/tutorial\/scripts\/step6.js",
+		"outputAbbreviatedPath": "\/tutorial\/scripts\/min\/step6-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/tutorial\/step1.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/tutorial\/step1.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/tutorial\/step2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/tutorial\/step2.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/tutorial\/step3.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/tutorial\/step3.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/tutorial\/step4.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/tutorial\/step4.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/tutorial\/step5.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/tutorial\/step5.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/tutorial\/step6.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/tutorial\/step6.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "Sebastien Lombard",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "WebFolder",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "brackets_blue"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"ass": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"closure": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"continue": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeq": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"newcap": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nomen": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sloppy": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"stupid": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"todo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unparam": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownEnableFootnotes": 0,
+	"markdownEnableSmartyPants": 1,
+	"markdownExpandTabs": 1,
+	"reloadFileURLs": 0,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 10,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 1,
+	"slimLogicless": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptNoResolve": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}
