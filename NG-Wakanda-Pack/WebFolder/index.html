@@ -59,13 +59,10 @@
 				
 				<figcaption class="animated bounceInUp delay-1s">
 					<p>
-						Build <a href="http://angularjs.org/" target="_blank">AngularJS</a> expressive interfaces linked to your <a href="http://www.wakanda.org/" target="_blank">Wakanda</a> Application Model.
+						Connect your <a href="http://www.wakanda.org/" target="_blank">WakandaDB</a> object model to your <a href="http://angularjs.org/" target="_blank">AngularJS</a> apps via the Angular-Wakanda connector.
 					</p>
 					<p>
-						This solution pack contains several demo pages that allow you to learn how to use <a href="http://wakanda.org/angular">angular-wakanda</a>.
-					</p>
-					<p>
-						This pack as well as the live examples are available from this GitHub repository: <a href="https://github.com/AMorgaut/NG-Wakanda-Pack" target="_blank">NG-Wakanda-Pack</a>
+						Learn how to use <a href="http://wakanda.org/angular">angular-wakanda</a> in this solution pack, which you can download from the GitHub repository is <a href="https://github.com/AMorgaut/NG-Wakanda-Pack" target="_blank">NG-Wakanda-Pack</a>.
 					</p>
 				</figcaption>
 			</figure>
@@ -81,7 +78,7 @@
 
 	<section id="howto" class="ng-section">
 
-		<h2>1 - Integrate angular-wakanda in your project</h2>
+		<h2>1. Integrate angular-wakanda in your project.</h2>
 		<hr>
 
 		<div class="col-sm-12 col-md-6">
@@ -93,16 +90,15 @@
 					</a>
 				</p>
 				<p class="col-xs-9">
-					Thanks to <a href="http://bower.io/" target="_blank">Bower</a>, you can easily install Wakanda using a command line directly or via your own <a href="http://bower.io/" target="_blank"><code>bowser.json</code></a> file.
+					Thanks to <a href="http://bower.io/" target="_blank">Bower</a>, install angular-wakanda in a command line or via your own <a href="http://bower.io/" target="_blank"><code>bowser.json</code></a> file.
 					
 					<pre><code class="hljs bash">bower install angular-wakanda</code></pre>
 
 					<!-- <script src="http://gist-it.appspot.com/github/AMorgaut/NG-Wakanda-Pack/blob/master/NG-Wakanda-Pack/WebFolder/tutorial/install.sh?footer=minimal"></script> -->
 				</p>
 				<p>
-					If you want to install it manually, <strong>angular-wakanda</strong> only requires that you include
-					<a href="https://github.com/Wakanda/bower-angular-wakanda/raw/master/angular-wakanda.min.js" target="_blank">angular-wankanda-min.js</a> 
-					and <a href="https://github.com/angular/bower-angular/raw/master/angular.min.js" target="_blank">angular.min.js</a> for reasons of dependency.
+				If you want to install <strong>angular-wakanda</strong> manually, you just need to include <a href="https://github.com/Wakanda/bower-angular-wakanda/raw/master/angular-wakanda.min.js" target="_blank">angular-wankanda-min.js</a>, 
+				which itself requires <a href="https://github.com/angular/bower-angular/raw/master/angular.min.js" target="_blank">angular.min.js</a>.
 				</p>
 				
 				<pre><code class="html">&lt;script src="/bower_components/angular/angular.min.js"&gt;&lt;/script&gt;
@@ -138,14 +134,13 @@
 
 	<section class="ng-section">
 
-		<h2>2 - Initialize the Wakanda Service</h2>
+		<h2>2. Initialize the $wakanda service.</h2>
 		<hr>
 		<div class="col-sm-12 col-md-6">
 				
-			<p>The Wakanda Service <strong><code>init()</code></strong> method lets you choose to load all the available dataclasses in the Model (by default) or only the dataclasses you specify.</p>
-			<p>The service works as a JavaScript promise. Let's load everything.</p>
-			<p>This Wakanda project contains three dataclasses (Country, Company, and Employee), all designed in Wakanda using JS.</p>
-			<p>The Wakanda Model can be designed very easily either <a href="http://doc.wakanda.org/Wakanda-Studio-Reference-Guide/Datastore-Model-Designer.200-305081.en.html" target="_blank">graphically</a> or <a href="http://doc.wakanda.org/Model/Model.100-975773.en.html" target="_blank">programmatically</a> in pure JavaScript.
+			<p>The <strong><code>init()</code></strong> method loads all the dataclasses in the Wakanda Model (by default) or only the dataclasses you specify and returns a JavaScript promise.</p>
+			<p>This Wakanda project's model contains three dataclasses: Country, Company, and Employee.</p>
+			<p>A Wakanda dataclass model can be designed either <a href="http://doc.wakanda.org/Wakanda-Studio-Reference-Guide/Datastore-Model-Designer.200-305081.en.html" target="_blank">graphically</a> or <a href="http://doc.wakanda.org/Model/Model.100-975773.en.html" target="_blank">programmatically</a> in pure JavaScript.
 		
 		</div>
 		<div class="col-sm-12 col-md-6">
@@ -175,12 +170,12 @@
 
 	<section class="ng-section">
 
-		<h2>3 - Retrieve your data with one line of code</h2>
+		<h2>3. Retrieve your data with one line of code.</h2>
 		<hr>
 		<div class="col-sm-12 col-md-6">
 				
-				<p><a href="http://wakanda.org/angular" target="_blank">angular-wakanda</a> lets you use your entire Wakanda Model directly from Angular-based Web Application interfaces.</p>
-				<p>Once the service is initialized, integrating your defined Business JS Objects into your angular scopes is as simple as calling the <strong>$find()</strong> method.</p>
+				<p><a href="http://wakanda.org/angular" target="_blank">angular-wakanda</a> lets you use your entire Wakanda model directly from Angular-based Web Application interfaces.</p>
+				<p>Once the $wakanda service is initialized, you can integrate your previously defined business JS objects into your angular scopes simply by calling an angular-wakanda method, like <strong><code>$find()</code></strong>:</p>
 
 				<pre><code class="hljs">$scope.countries = ds.Country.$find();</code></pre>
 
@@ -218,13 +213,13 @@
 
 	<section class="ng-section">
 
-		<h2>4 - Get fast infinite scrolling for free</h2>
+		<h2>4. Get fast infinite scrolling.</h2>
 		<hr>
 		<div class="col-sm-12 col-md-6">
 				
-				<p>No need for manual paging or manual cache optimization...</p>
-				<p>angular-wakanda takes advatange of the Wakanda protocol native entityset cache to fetch a large collection in pages.</p>
-				<p>You can either use the <strong><code>$more()</code></strong> method for <a href="http://jsfiddle.net/vojtajina/U7Bz9/" target="_blank">infinite scrolling</a> or the classic <strong><code>$prevPage()</code></strong> / <strong><code>$nextPage()</code></strong> methods.</p>
+				<p>With <strong>angular-wakanda</strong>, you don't need to manually manage paging or cache optimization.</p>
+				<p>angular-wakanda takes advatange of Wakanda's native entityset cache to fetch a large collection of entities in pages.</p>
+				<p>You can either use the <strong><code>$more()</code></strong> method for <a href="http://jsfiddle.net/vojtajina/U7Bz9/" target="_blank">infinite scrolling</a> or the classic <strong><code>$prevPage()</code></strong> and <strong><code>$nextPage()</code></strong> methods.</p>
 				
 				<pre><code class="">&lt;ul id="list" when-scrolled="employees.$more()"&gt;
 	&lt;li ng-repeat="employee in employees"&gt;{{employee.fullName}}&lt;/li&gt;
@@ -264,13 +259,13 @@
 
 	<section class="ng-section">
 
-		<h2>5 - Get related data out of the box</h2>
+		<h2>5. Retrieve related data automatically.</h2>
 		<hr>
 		<div class="col-sm-12 col-md-6">
 				
-				<p>No joins, no foreign keys, no map-reduce...</p>
-				<p>Get access to related data directly through your entity object properties</p>
-				<p>All you have to do is to tell angular-wakanda when you want to load the  related attribute locally by calling the <strong><code>$fetch()</code></strong> method</p>
+				<p>No joins, no foreign keys, and no map-reduce.</p>
+				<p>Get access to related data directly through your entity object properties.</p>
+				<p>All you have to do is call the <strong><code>$fetch()</code></strong> method to load the related attribute's data locally.</p>
 
 				<pre><code class="hljs">// get companies related to current country
 country.companies.$fetch();</code></pre>
@@ -310,12 +305,12 @@ country.companies.$fetch();</code></pre>
 
 	<section class="ng-section">
 
-		<h2>6 - Modify your data</h2>
+		<h2>6. Modify your data.</h2>
 		<hr>
 		<div class="col-sm-12 col-md-6">
 				
-				<p>Each Wakanda dataclass provides a <strong><code>$create()</code></strong> method.</p>
-				<p>Each Wakanda entity comes with its <strong><code>$save()</code></strong> and <strong><code>$remove()</code></strong> methods.</p>
+				<p>Each Wakanda dataclass provides a <strong><code>$create()</code></strong> method for you to create a new entity.</p>
+				<p>Each Wakanda entity comes with <strong><code>$save()</code></strong> and <strong><code>$remove()</code></strong> methods.</p>
 
 				<pre><code class="">&lt;strong>Salary&lt;/strong>: &lt;input ng-model="employee.salary" /&gt;&lt;br&gt;
 &lt;input type="button" value="save" ng-click="employee.$save()"&gt;</code></pre>
@@ -362,9 +357,9 @@ country.companies.$fetch();</code></pre>
 
 	<footer id="demos" class="ng-section ng-demo">
 
-		<h1>Try out a few demos</h1>
+		<h1>NG-Wakanda-Pack demos</h1>
 		<hr>
-		<p>Enjoy a few more advanced demos and get help from <a href="https://github.com/AMorgaut/NG-Wakanda-Pack/blob/master/API-DOC.md">the documentation</a> when necessary.</p>
+		<p>To learn more about angular-wakanda, you can test a few more advanced demos and read the <a href="http://doc.wakanda.org/Wakanda/help/Title/en/page4419.html">documentation</a>.</p>
 
 		<ul class="demos-list">
 			<li class="col-sm-6 col-lg-4">
