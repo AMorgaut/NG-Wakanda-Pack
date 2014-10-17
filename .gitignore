@@ -45,3 +45,7 @@ sessionID.json
 
 # Webstorm
 .idea
+
+# Bower / Npm
+/Yeoman-Demo/*/bower_components
+/Yeoman-Demo/*/node_modules
