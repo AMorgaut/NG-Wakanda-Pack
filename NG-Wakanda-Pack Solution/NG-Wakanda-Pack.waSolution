@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?><solution>
 	<project path="../NG-Wakanda-Pack/NG-Wakanda-Pack.waProject"/>
+	<project path="../Yeoman-Demo/Yeoman-Demo.waProject"/>
 	<file path="./Settings.waSettings">
 		<tag name="settings"/>
 	</file>
