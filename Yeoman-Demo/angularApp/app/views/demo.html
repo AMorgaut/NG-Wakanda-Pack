@@ -1,0 +1,33 @@
+<p>There is {{employees.$totalCount | number}} employees in the database.</p>
+
+<section class="panel panel-primary">
+  <h1 class="panel-heading panel-title">Current Employee</h1>
+  <form class="panel-body">
+
+    firstName <input ng-model="emp.firstName">
+    salary <input ng-model="emp.salary">
+
+    <button ng-click="emp.$save()">save</button>
+
+    <img ng-src="emp.photo.src"
+    
+         class="img-responsive pull-right"
+         style="width: 15%; height: 15%">
+
+	</form>
+</section>
+
+<ul class="pager">
+
+  <li><a ng-click="employees.$prevPage()">prev</a></li>
+  <li><a ng-click="employees.$nextPage()">next</a></li>
+
+</ul>
+
+<div class="list-group">
+  <a class="list-group-item {{$parent.emp == emp ? 'active' : ''}}"
+     ng-repeat="emp in employees"
+     ng-click="$parent.emp = emp">
+    {{emp.firstName}} {{emp.lastName}} - <strong>{{emp.company.name}}</strong>
+  </a>
+</div>
