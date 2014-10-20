@@ -1,0 +1,1 @@
+﻿exports.send = function send(targets, type, data) {    	var socketHandler = new SharedWorker('Workers/live.js', 'live');		if (typeof targets === 'object') {	    targets =  targets.toArray('ID').map(function (target) {			return target.ID		});	}		socketHandler.port.postMessage({		action: 'broadcast',		targets: targets,		message: {type: type, body: data}	});	};

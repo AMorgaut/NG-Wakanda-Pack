@@ -1,0 +1,1 @@
+﻿model.Employee.entityMethods.sendMail = function() {    var mail = require('waf-mail');    	mail.send(	    storage.smtpConfig,	    mail.createMessage(	        from || storage.appEmail,	        this.email, // to	        subject,	        content	    )	);};

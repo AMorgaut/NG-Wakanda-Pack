@@ -1,1 +1,1 @@
-﻿include("./Model/Employee/Employee-events.js");
+﻿include("./Model/Employee/Employee-events.js");include("./Model/Employee/Employee-methods.js");include("./Model/Vendor/Vendor-methods.js");
