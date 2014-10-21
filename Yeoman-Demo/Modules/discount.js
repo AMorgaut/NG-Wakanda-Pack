@@ -1,1 +1,1 @@
-﻿exports.create = function create(title, value, description) {	return {	    title: title, 	    value: value, 	    description: description	};};
+﻿exports.create = function create(title, discount, description) {	return {	    title: title, 	    value: discount, 	    description: description	};};
