@@ -1,0 +1,32 @@
+<header class="profile-header">
+	<h3>Client Invoices</h3>
+	<!-- CURRENT USER -->
+	<figure ng-show="currentUser.firstName" class="profile-badge">
+	  <div class="profile-avatar">
+	  	<img ng-src="{{currentUser.photo.src}}">
+	  </div>
+	  <figcaption>{{currentUser.firstName}}</figcaption>
+	</figure>
+</header>
+
+<!-- DISCOUNT NOTIFICATION -->
+<section  class="alert alert-warning alert-dismissible jumbotron" role="alert" ng-show="newDiscount.title">
+	
+	<button type="button" class="close" data-dismiss="alert" ng-click="newDiscount = {}">
+		<span aria-hidden="true">&times;</span><span class="sr-only">Close</span>
+	</button>
+	
+	<h2 class="text-left"> {{newDiscount.title}}<span class="label label-danger pull-right">{{newDiscount.value}}%</span></h2>
+	<p class="text-left">{{newDiscount.description}}</p>
+
+</section>
+
+<!-- INVOICE LIST -->
+<section class="panel panel-primary">
+  <h1 class="panel-heading panel-title">Products</h1>
+  <div class="panel-body list-group">
+    <a class="list-group-item" ng-repeat="invoice in invoices">
+       {{invoice.id}} <span class="badge">{{invoice.date | date}}</span> <span class="badge">{{invoice.total | currency}}</span>
+    </a>
+  </div>
+</section>

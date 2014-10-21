@@ -1,0 +1,44 @@
+<header class="profile-header">
+	<h3>Vendor Admin</h3>
+	<!-- CURRENT USER -->
+	<figure ng-show="currentUser.firstName" class="profile-badge">
+	  <div class="profile-avatar">
+	  	<img ng-src="{{currentUser.photo.src}}">
+	  </div>
+	  <figcaption>{{currentUser.firstName}}</figcaption>
+	</figure>
+</header>
+
+<section class="panel panel-primary">
+  <h1 class="panel-heading panel-title">Special Discount</h1>
+  <form class="panel-body" role="form">
+	
+	<div class="form-group">
+    	<label>Title</label>
+    	<input type="text" class="form-control" ng-model="title" required>
+	</div>
+
+	<div class="form-group">
+    	<label>Discount</label>
+    	<input type="text" class="form-control" ng-model="discount" required>
+	</div>
+
+	<div class="form-group">
+    	<label>description</label>
+    	<textarea class="form-control" ng-model="description" required></textarea>
+	</div>
+
+    <button class="btn btn-default" ng-click="currentUser.createDiscount(title, discount, description)">Create</button>
+
+	</form>
+</section>
+
+<section class="panel panel-primary">
+  <h1 class="panel-heading panel-title">Clients</h1>
+	<div class="panel-body list-group">
+	  <a class="list-group-item clearfix lh-4" ng-repeat="client in clients">
+	    <img ng-src="{{client.photo.src}}" class="img-responsive pull-left" width="25"> <strong>{{client.firstName}}</strong> 
+	    <span class="label label-success" ng-if="client.online"><i class="glyphicon glyphicon-user"></i> online</span>
+	  </a>
+	</div>
+</section>

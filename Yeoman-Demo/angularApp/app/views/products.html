@@ -1,0 +1,33 @@
+<header class="profile-header">
+	<h3>Client Products</h3>
+	<!-- CURRENT USER -->
+	<figure ng-show="currentUser.firstName" class="profile-badge">
+	  <div class="profile-avatar">
+	  	<img ng-src="{{currentUser.photo.src}}">
+	  </div>
+	  <figcaption>{{currentUser.firstName}}</figcaption>
+	</figure>
+</header>
+
+<!-- DISCOUNT NOTIFICATION -->
+<section id="" class="alert alert-warning alert-dismissible jumbotron animate-show" role="alert" ng-show="newDiscount">
+	
+	<button type="button" class="close" data-dismiss="alert" ng-click="newDiscount = null">
+		<span aria-hidden="true">&times;</span><span class="sr-only">Close</span>
+	</button>
+	
+	<h2 class="text-left"> {{newDiscount.title}}<span class="label label-danger pull-right">{{newDiscount.value}}%</span></h2>
+	<p class="text-left">{{newDiscount.description}}</p>
+
+</section>
+
+<!-- PRODUCT LIST -->
+<section class="panel panel-primary">
+  <h1 class="panel-heading panel-title">Products</h1>
+	<div class="panel-body list-group">
+      <a class="list-group-item" ng-repeat="product in products">
+	    {{product.name}} <span class="badge">{{product.price | currency}}</span>
+	  </a>
+	</div>
+</section>
+ 

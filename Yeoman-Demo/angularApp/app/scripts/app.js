@@ -21,7 +21,7 @@ angular
   .config(function ($routeProvider) {
 
     var routeResolver = {
-      app : ['$wakanda',function($wakanda){
+      app : ['$wakanda', function($wakanda){
         return $wakanda.init();
       }]
     };
@@ -40,7 +40,25 @@ angular
         controller: 'DemoCtrl',
         resolve: routeResolver
       })
+      .when('/vendor', {
+        templateUrl: 'views/vendor.html',
+        controller: 'VendorCtrl',
+        resolve: routeResolver
+      })
+      .when('/products', {
+        templateUrl: 'views/products.html',
+        controller: 'ProductsCtrl',
+        resolve: routeResolver
+      })
+      .when('/invoices', {
+        templateUrl: 'views/invoices.html',
+        controller: 'InvoicesCtrl',
+        resolve: routeResolver
+      })
       .otherwise({
         redirectTo: '/'
       });
-  });
+  })
+.controller('NavCtrl', ['$scope', '$route', function($scope, $route) {
+    $scope.route = $route;
+}]);
