@@ -32,13 +32,11 @@ ngwakUpload.directive("ngwakUpload", ["$http", function ($http) {
                     }
                 })
                     .success(function(data){
-                        scope.data = data;
-                        scope.onUploadSuccess(data);
+                        scope.onUploadSuccess();
                         scope.uploaded = true;
                         console.log(data);
                     })
                     .error(function(err, status){
-                        scope.err = err;
                         var errMsg = "Unknown error status "+status;
                         if(status = 500){
                             errMsg = "you must activate upload service and/or authorize upload for the connected user (http://doc.wakanda.org/GUI-Designer/GUI-Designer-Widgets/File-Upload.300-939929.en.html)"
