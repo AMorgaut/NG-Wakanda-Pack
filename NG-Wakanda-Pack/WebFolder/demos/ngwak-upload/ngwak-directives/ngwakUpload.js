@@ -115,7 +115,7 @@ ngwakUpload.directive("ngwakUpload", ["$http", "$q", function ($http, $q) {
 
                             console.log(data);
                         },function(err){
-                            scope.reject(err);
+                            scope.qAskUser.reject(err);
                         });
                 }
 
