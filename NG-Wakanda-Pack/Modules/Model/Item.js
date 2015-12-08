@@ -1,1 +1,0 @@
-﻿var Item = module.exports = new DataClass('Items');Item.ID = new Attribute('storage', 'number', 'key auto');Item.done = new Attribute('storage', 'bool');Item.text = new Attribute('storage', 'string');
